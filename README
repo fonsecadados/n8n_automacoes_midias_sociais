@@ -1,6 +1,6 @@
 Política de Privacidade
 
-Esta Política de Privacidade descreve como os dados são coletados, utilizados e protegidos pelo aplicativo [NOME DO APLICATIVO].
+Esta Política de Privacidade descreve como os dados são coletados, utilizados e protegidos pelo aplicativo [n8n_automacoes_midias_sociais].
 
 1. Coleta de dados
 
